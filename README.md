@@ -183,9 +183,8 @@ All contributions are reviewed before being merged. Please ensure that your chan
 <br>
 <h2 align="center">References</h2>
 
-1. **Ken Thompson (1968)** - [Regular Expression Search Algorithm](https://doi.org/10.1145/363347.363387). *Communications of the ACM*.  
-2. **Jeffrey Friedl (2006)** - [Mastering Regular Expressions](https://www.oreilly.com/library/view/mastering-regular-expressions/0596528124/). *O'Reilly Media*.  
-3. **C Programming** - [ISO/IEC 9899:2011 (C11 standard)](https://www.iso.org/standard/57853.html).  
+1. **Ken Thompson (1968)** - [Regular Expression Search Algorithm](https://doi.org/10.1145/363347.363387). *Communications of the ACM*.
+2. **Jeffrey Friedl (2006)** - [Mastering Regular Expressions](https://www.oreilly.com/library/view/mastering-regular-expressions/0596528124/). *O'Reilly Media*.
 
 ---
 <br>
