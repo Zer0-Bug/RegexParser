@@ -62,7 +62,7 @@ The parser is built using a modular, function-driven architecture that processes
 <h2 align="center">Project Structure</h2>
 
 ```
-Project_RegularExpressionParser/
+RegexParser/
 ├── LICENSE                                   # MIT License
 ├── README.md                                 # Project documentation
 ├── .vscode/                                  # Development environment config
@@ -140,8 +140,8 @@ The parser provides a powerful syntax for sophisticated pattern matching across 
 Clone the repository and enter the directory:
 
 ```bash
-git clone https://github.com/Zer0-Bug/Project_RegularExpressionParser.git
-cd Project_RegularExpressionParser
+git clone https://github.com/Zer0-Bug/RegexParser.git
+cd RegexParser
 ```
 
 ### 2. Compilation
