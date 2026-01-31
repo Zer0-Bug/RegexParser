@@ -141,6 +141,8 @@ Clone the repository and enter the directory:
 
 ```bash
 git clone https://github.com/Zer0-Bug/RegexParser.git
+```
+```bash
 cd RegexParser
 ```
 
