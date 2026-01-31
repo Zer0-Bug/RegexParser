@@ -10,8 +10,8 @@
   <a href="https://en.wikipedia.org/wiki/Regular_expression">
     <img src="https://img.shields.io/badge/Regex-Logic-blue?style=for-the-badge" alt="Regex Logic">
   </a>
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="MIT License">
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/license-MIT-darkred?style=for-the-badge" alt="License">
   </a>
 </p>
 
